@@ -1,6 +1,6 @@
 var mod =  (function(){
   const request = require('request');
-  const host = 'http://api.outlawdesigns.io:9661';
+  const host = 'https://api.outlawdesigns.io:9661';
   const userEnd = '/user';
   const locationEnd = '/location';
 
